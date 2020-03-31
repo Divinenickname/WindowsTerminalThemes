@@ -1,0 +1,35 @@
+//Добавить в list[]
+//Шрифт "Cascadia code" можно скачать отсюда: https://github.com/microsoft/cascadia-code
+{
+    "hidden": false,
+    "name": "UbuntuLegit",
+    "fontFace" : "Cascadia Code",
+    "fontSize" : 13,
+    "commandline": "powershell.exe",
+    "colorScheme": "UbuntuLegit",
+    "guid": ""
+}
+
+
+//Добавить в schemes
+{
+	"background" : "#300A24",
+	"black" : "#4E9A06",
+	"blue" : "#3465A4",
+	"brightBlack" : "#555753",
+	"brightBlue" : "#729FCF",
+	"brightCyan" : "#34E2E2",
+	"brightGreen" : "#8AE234",
+	"brightPurple" : "#AD7FA8",
+	"brightRed" : "#979A9A",
+	"brightWhite" : "#EEEEEE",
+	"brightYellow" : "#ECF0F1",
+	"cyan" : "#06989A",
+	"foreground" : "#90FC36",
+	"green" : "#300A24",
+	"name" : "UbuntuLegit",
+	"purple" : "#75507B",
+	"red" : "#CC0000",
+	"white" : "#D3D7CF",
+	"yellow" : "#C4A000"
+}
